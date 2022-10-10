@@ -1,4 +1,4 @@
-import FlappyBirdScene from './js/FlappyBirdScene.js';
+import FlappyBirdScene from './js/GameScene.js';
 
 window.onload = function(){
     const config = {

@@ -37,7 +37,15 @@
         "ground": "ground",
         "gameOver": "game-over",
         "restartGame": "restart-button",
-        "startGame": "start-game"
+        "startGame": "start-game",
+        "pauseGame": "pause-button",
+        "resumeGame": "resume-button",
+        "difficult": {
+            "easy": "easy-button",
+            "medium": "medium-button",
+            "hard": "hard-button",
+            "changeDifficult": "change-diff-button"
+        }
     },
     "scoreboard": {
         "width": 25,
